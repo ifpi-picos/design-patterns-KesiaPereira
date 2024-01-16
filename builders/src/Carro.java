@@ -1,5 +1,3 @@
-package DesignPatterns.builders;
-
 public class Carro {
     String modelo;
     String motor;

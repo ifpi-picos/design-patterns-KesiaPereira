@@ -1,5 +1,3 @@
-package DesignPatterns.builders;
-
 public class Diretor {
     private BuilderCarro builder;
 

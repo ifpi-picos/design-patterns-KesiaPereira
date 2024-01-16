@@ -1,5 +1,3 @@
-package DesignPatterns.builders;
-
 public interface BuilderCarro {
     void criarCarro();
 

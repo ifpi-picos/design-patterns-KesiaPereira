@@ -1,5 +1,5 @@
 public class App {
-    public static void app(String[] args) {
+    public static void main(String[] args) {
         BuilderCarro builderEsportivo = new BuilderCarroEsportivo();
         Diretor diretor = new Diretor(builderEsportivo);
 
